@@ -2,4 +2,4 @@
 
 hi, test svn
 
-test 2
+test 2 and test 2
